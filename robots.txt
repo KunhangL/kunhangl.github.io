@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KunhangL.github.io/sitemap.xml
+Sitemap: https://kunhangl.github.io/sitemap.xml
