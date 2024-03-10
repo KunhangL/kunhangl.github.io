@@ -1,58 +1,24 @@
 {
-  "basics": {
-    "name": "Kunhang Li",
-    "label": "",
-    "image": "",
-    "email": "kunhangli@g.ecc.u-tokyo.ac.jp",
-    "phone": "",
-    "url": "https://github.com/KunhangL",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "kun_unique233",
-        "url": "https://twitter.com/kun_unique233"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "Peking University, Beijing, China",
+      "institution": "The University of Tokyo",
+      "location": "Tokyo, Japan",
+      "url": "",
+      "area": "",
+      "studyType": "Master in Computer Science",
+      "startDate": "2023",
+      "endDate": "2025",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Peking University",
       "location": "Beijing, China",
-      "url": "https://www.pku.edu.cn/",
-      "area": "Robotics",
-      "studyType": "Bachelor",
-      "startDate": "2019-09-01",
-      "endDate": "2023-07-01",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor in Robotics",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "",
       "courses": [""]
     }
