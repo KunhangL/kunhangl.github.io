@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've made my personal website!
+The birth of Kun's personal website 😕
