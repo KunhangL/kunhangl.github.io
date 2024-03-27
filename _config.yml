@@ -8,7 +8,7 @@ middle_name:
 last_name: Li
 email: kunhangli@g.ecc.u-tokyo.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Website
+  Kun's Personal Website
 footer_text: >
 keywords: # add your own keywords or leave empty
 lang: en, cn, ja # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -37,7 +37,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -214,23 +214,16 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
-  - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME

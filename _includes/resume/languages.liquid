@@ -1,6 +1,6 @@
 <div class="list-groups">
   {% for content in data[1] %}
-    <div class="list-group col-md-6">
+    <div class="list-group col-md-5">
       <table class="table-cv list-group-table">
         <tbody>
           <tr>
@@ -23,6 +23,26 @@
             <td class="list-group-name">
               <b>{{ content.fluency }}</b>
             </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="list-group col-md-1">
+      <table class="table-cv list-group-table">
+        <tbody>
+          <tr>
+            <td>
+              {% if content.icon == "ch" %}
+                {% include figure.liquid loading="eager" path="assets/img/icons/ch_icon.jpg" class="img-fluid z-depth-1 rounded-circle" %}
+              {% elsif content.icon == "en" %}
+                {% include figure.liquid loading="eager" path="assets/img/icons/en_icon.jpg" class="img-fluid z-depth-1 rounded-circle" %}
+              {% elsif content.icon == "ja" %}
+                {% include figure.liquid loading="eager" path="assets/img/icons/ja_icon.jpg" class="img-fluid z-depth-1 rounded-circle" %}
+              {% elsif content.icon == "de" %}
+                {% include figure.liquid loading="eager" path="assets/img/icons/de_icon.jpg" class="img-fluid z-depth-1 rounded-circle" %}
+              {% else %}
+              {% endif %}
+              </td>
           </tr>
         </tbody>
       </table>

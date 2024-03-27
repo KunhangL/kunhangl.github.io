@@ -2,14 +2,18 @@
   "education": [
     {
       "institution": "The University of Tokyo",
+      "logo": "utokyo_logo.jpg",
       "location": "Tokyo, Japan",
+      "url": "https://www.i.u-tokyo.ac.jp/index_e.shtml",
       "studyType": "Master in Computer Science",
       "startDate": "2023",
       "endDate": "2025"
     },
     {
       "institution": "Peking University",
+      "logo": "pku_logo.jpg",
       "location": "Beijing, China",
+      "url": "https://www.coe.pku.edu.cn",
       "studyType": "Bachelor in Robotics",
       "startDate": "2019",
       "endDate": "2023"
@@ -17,24 +21,24 @@
   ],
   "languages": [
     {
-      "language": "Chinese (Mandarin)",
+      "language": "Chinese<br><font size=1>Chongqing Dialect & Mandarin</font>",
       "fluency": "Native",
-      "icon": ""
+      "icon": "ch"
     },
     {
       "language": "English",
       "fluency": "Proficient",
-      "icon": ""
+      "icon": "en"
     },
     {
       "language": "Japanese",
       "fluency": "Basic",
-      "icon": ""
+      "icon": "ja"
     },
     {
       "language": "German",
       "fluency": "Intermediate (reading)",
-      "icon": ""
+      "icon": "de"
     }
   ]
 }
