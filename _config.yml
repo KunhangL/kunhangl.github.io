@@ -126,14 +126,14 @@ blogs_films_name: films
 blogs_films_description: An observer...
 
 blogs_research_name: research
-blogs_research_description: Some thoughts...
+blogs_research_description: Some random thoughts...
 
 blogs_misc_name: misc
 blogs_misc_description: Anything...
 
 # blog_name: al # blog_name will be displayed in your blog page
 # blog_description: a simple whitespace theme for academics
-# permalink: /blog/:categories/:year/:title/
+permalink: /blog/:categories/:year/:month/:title:output_ext
 
 # Pagination
 pagination:
@@ -276,12 +276,12 @@ jekyll-minifier:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-  permalinks:
-    year: "/blog/:year/"
+# jekyll-archives:
+#   enabled: [year] # enables year, tag and category archives (remove if you need to disable one of them).
+#   layouts:
+#     year: archive-year
+#   permalinks:
+#     year: "/blog/:year/"
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

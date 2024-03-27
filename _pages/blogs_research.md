@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/research/
+permalink: /blog/research.html
 title: blogs_research
 nav: false
 nav_order: 101
@@ -28,7 +28,7 @@ nav_order: 101
   {% endif %}
 
   {% for post in postlist %}
-    {% if post.category == "research" %}
+    {% if post.categories contains "research" %}
       {% if post.external_source == blank %}
         {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
       {% else %}

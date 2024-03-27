@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/misc/
+permalink: /blog/misc.html
 title: blogs_misc
 nav: false
 nav_order: 101
@@ -28,7 +28,7 @@ nav_order: 101
   {% endif %}
 
   {% for post in postlist %}
-    {% if post.category == "misc" %}
+    {% if post.categories contains "misc" %}
       {% if post.external_source == blank %}
         {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
       {% else %}
