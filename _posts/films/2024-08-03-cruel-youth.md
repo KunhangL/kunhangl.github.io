@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 青春残酷物語（１９６０）
-date: 2024-08-02 00:40:00+0900
+date: 2024-08-03 21:40:00+0900
 description: 監督：大島渚
 categories: films
 ---
