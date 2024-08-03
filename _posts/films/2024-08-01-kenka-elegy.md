@@ -10,7 +10,8 @@ categories: films
     {% include figure.liquid loading="eager" path="assets/blog/films/20240801kenka_elegy/header.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 けんかえれじい（１９６６）<br>
-鈴木清順
+監督：鈴木清順
+製作：日活
 <hr>
 
 <div class="row mt-3">
