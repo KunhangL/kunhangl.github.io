@@ -20,17 +20,17 @@ categories: travel
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/whale_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/whale_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/whale_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/whale_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/whale_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/whale_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -41,12 +41,12 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/deer.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/deer.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/bear.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/bear.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -57,22 +57,22 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/landscape_0.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/landscape_0.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/landscape_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/landscape_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/landscape_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/landscape_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/landscape_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/landscape_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -83,7 +83,7 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/kunashiri.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/kunashiri.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -94,7 +94,7 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/lighthouse.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/lighthouse.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -105,30 +105,30 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_0.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_0.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_2.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_4.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_4.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/random_5.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/random_5.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -139,7 +139,7 @@ categories: travel
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/blog/travel/vision20240925shiretoko/kun.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/blog/travel/vision/20240925shiretoko/kun.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
