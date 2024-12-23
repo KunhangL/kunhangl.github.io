@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 My name is Kunhang Li (李坤航). I am a Computer Science MS student at [Miyao Lab](https://mynlp.is.s.u-tokyo.ac.jp/en/index) from [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html).
 
-My current research interests include:
+My current research interests include:<br>
 (1) Developing digital human agents that perform open-ended behaviors in a 3D simulated world<br>
 (2) Building scientific agents that conduct research by themselves
 
