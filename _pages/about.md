@@ -20,9 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am Kunhang Li (李坤航), a Computer Science MS student at [Miyao Lab](https://mynlp.is.s.u-tokyo.ac.jp/en/index) from [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html).
 
-My current research interests include:<br>
-(1) Digital human agents that perform open-ended behaviors in a 3D simulated world;<br>
-(2) Scientific agents that conduct research by themselves.
+My current research interests lie within multimodal understanding of the 3D world, specifically focusing on language & human motion.
 
 P.S.: I post blogs on [roaming](https://kunhangl.github.io/blog/travel.html), [films](https://kunhangl.github.io/blog/films.html), [research](https://kunhangl.github.io/blog/research.html), and [random thoughts](https://kunhangl.github.io/blog/misc.html).<br>
 P.P.S.: I track [my pace towards a polyglot](https://kunhangl.github.io/cv/#languages-1).
