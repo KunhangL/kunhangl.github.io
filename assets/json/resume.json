@@ -5,6 +5,15 @@
       "logo": "utokyo_logo.jpg",
       "location": "Tokyo, Japan",
       "url": "https://www.i.u-tokyo.ac.jp/index_e.shtml",
+      "studyType": "PhD in Computer Science",
+      "startDate": "2025",
+      "endDate": "2028"
+    },
+    {
+      "institution": "The University of Tokyo",
+      "logo": "utokyo_logo.jpg",
+      "location": "Tokyo, Japan",
+      "url": "https://www.i.u-tokyo.ac.jp/index_e.shtml",
       "studyType": "Master in Computer Science",
       "startDate": "2023",
       "endDate": "2025"
